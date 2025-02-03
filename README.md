@@ -1,2 +1,2 @@
-# Dashboard-PowerBI
-🍫 Chocolate Data Insights - Power BI Dashboard 📊 This Power BI dashboard explores trends and patterns in a chocolate dataset, uncovering insights into ratings, ingredients, and origins 🍩📈. With interactive charts, KPIs, and filters, it enables seamless data analysis, powered by DAX &amp; Power Query for transformation ⚡.  
+📊 Sales Analytics Dashboard - Power BI 🚀
+This Power BI dashboard provides a comprehensive analysis of sales data, uncovering trends, performance metrics, and key insights 📈. Featuring interactive charts, KPIs, and filters, it enables dynamic data exploration. DAX & Power Query are used for data transformation and optimization ⚡.  
